@@ -18,8 +18,8 @@ hydra:
 defaults:
   - wandb: defaults
           
-outputDir: /home/<user>/speech_BCI_torch/speech_logs/speechBaseline4
-datasetPath: /home/<user>/speech_BCI_torch/data/ptDecoder_ctc
+outputDir: /home/wrb15144/speech_BCI_torch/speech_logs/speechBaseline4
+datasetPath: /vol/fastdata/wrb15144/decoder_data/BrainTranslationCompetition/ptDecoder_ctc
 
 seqLen: 150 
 
